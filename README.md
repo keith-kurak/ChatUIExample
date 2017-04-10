@@ -1,10 +1,10 @@
 # React Chat UI Example
 A barebones example of a texting-style chat interface
 
-(https://github.com/llamaluvr/ChatUIExample/blob/master/ChatUIDemo.gif "Logo Title Text 1")
+![Chat Demo GIF](https://github.com/llamaluvr/ChatUIExample/blob/master/ChatUIDemo.gif "Chat Demo GIF")
 
 ## Goal
-There's already a handful of fine tutorials on creating a React Native chat app. Heck, you should probably avoid creating your own chat interface and stick with (https://github.com/FaridSafi/react-native-gifted-chat "Gifted Chat"). What I didn't see were any barebones examples/ tutorials that only demonstrated the mechanics of the user interface (and didn't dive into hooking up actual data) and were simple enough to be quick to explain yet competent enough to handle all of the weird cases that you would think about within the first half hour of setting out to make a chat UI.
+There's already a handful of fine tutorials on creating a React Native chat app. Heck, you should probably avoid creating your own chat interface and stick with [Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat "Gifted Chat"). What I didn't see were any barebones examples/ tutorials that only demonstrated the mechanics of the user interface (and didn't dive into hooking up actual data) and were simple enough to be quick to explain yet competent enough to handle all of the weird cases that you would think about within the first half hour of setting out to make a chat UI.
 
 ## What it does
 - Shows (lightly) stylized left and right message bubbles
