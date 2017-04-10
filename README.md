@@ -23,3 +23,7 @@ Typical React Native stuff:
 1. [Install React Native](https://facebook.github.io/react-native/docs/getting-started.html)
 2. Go to the directory where you downloaded this
 3. Run `react-native run-ios`
+
+## Where's the magic?
+
+99.99% of interesting code is in ChatView.js.
