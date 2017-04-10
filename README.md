@@ -1,4 +1,4 @@
-# React Chat UI Example
+# React Native Chat UI Example
 A barebones example of a texting-style chat interface
 
 ![Chat Demo GIF](https://github.com/llamaluvr/ChatUIExample/blob/master/ChatUIDemo.gif "Chat Demo GIF")
