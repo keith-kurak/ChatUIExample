@@ -26,7 +26,7 @@ export default class ChatView extends Component {
 
       var direction = getRandomInt(1, 2) === 1 ? 'right' : 'left';
 
-      message = loremIpsum.substring(0, messageLength);
+      var message = loremIpsum.substring(0, messageLength);
 
       messages.push({
         direction: direction,
